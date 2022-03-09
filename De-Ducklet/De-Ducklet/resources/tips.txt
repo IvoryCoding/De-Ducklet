@@ -1,0 +1,17 @@
+Tip #1: Reproduce the problem.
+Tip #2: Use Display Messages/Alerts or print functions to see where errors are ocurring.
+Tip #3: Don't assume things will work the way they are meant to. (Or it will be the same as others.)
+Tip #4: Be clear in your mind about correct behaviour or functionality.
+Tip #5: Fix one problem at a time. If you need to fix multiple start with the hardest.
+Tip #6: Learn your IDE's debugging capabilities.
+Tip #7: To limit amount of bugs, test your code often.
+Tip #8: Get enough sleep to handle problems that come up. Maybe get a co-worker or family member to look it over.
+Tip #9: Read your code to an object (usualy a rubber duck) while thinking of exactly what it should be doing.
+Tip #10: Consider the bigger picture of what you are trying to solve.
+Tip #11: Figure out what type of error it is. (Syntax, Compile, Runtime, and/or logical)
+Tip #12: Look at your code that already works.
+Tip #13: Search up the error message you get.
+Tip #14: Guess and check. Comment out pieces of code and see if thats where it comes from or add lines to see if you can fix it.
+Tip #15: Don't dwell on the issue. Take a break and do something else while your brain works it out.
+Tip #16: Keep a journal of all the bugs you have encountered to help with new ones you have fixed or to help with new ones.
+Tip #17: Use catch errors to a more accurate idea of the problem. You can use them to help solve the problem or avoid it.
